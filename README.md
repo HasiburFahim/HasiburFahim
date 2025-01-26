@@ -19,7 +19,7 @@ I am passionate about uncovering insights from data, solving business problems, 
 Python | SQL | Excel   
 
 **Data Visualization**:  
-Power BI | Matplotlib | Seaborn  
+Power BI | Matplotlib | Seaborn  | Google Analytics 4
 
 **Databases**:  
 PostgreSQL | MySQL  
